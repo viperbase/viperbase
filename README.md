@@ -1,6 +1,6 @@
 <h1 align="center">Viperbase [WIP]</h1>
 <p align="center">
-    <img src="./logo.png">
+    <img src="./static/logo.png">
 </p>
 <p align="center">
 Simple Firebase alternative, provide rapid support for quickly building internal products or prototypes.Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.    
