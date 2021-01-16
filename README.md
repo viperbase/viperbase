@@ -10,14 +10,14 @@ Simple Firebase alternative, provide rapid support for quickly building internal
 
 ## TODO
 
-+ []Architecture design and technology selection
-+ []Authentication and authorization
-+ []Auto-generated APIs
-+ []Realtime subscriptions
-+ []Hosted Postgres Database
-+ []Dashboard
-+ []Storage
-+ []Functions
++ [ ]Architecture design and technology selection
++ [ ]Authentication and authorization
++ [ ]Auto-generated APIs
++ [ ]Realtime subscriptions
++ [ ]Hosted Postgres Database
++ [ ]Dashboard
++ [ ]Storage
++ [ ]Functions
 
 
 ## Vision
